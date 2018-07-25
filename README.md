@@ -1,2 +1,2 @@
-# EGAGP-BSc-Thesis-
+# EGAGP
 An Enhanced Genetic Algorithm for Producing Efficient Graph Partitions
