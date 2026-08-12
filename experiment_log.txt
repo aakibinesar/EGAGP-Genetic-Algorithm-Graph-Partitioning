@@ -6,3 +6,4 @@ G200_3.txt: graph_cut=237892425.48 fitness=237892425.48 elapsed=546.7s total_ela
 G200_4.txt: graph_cut=307623611.68 fitness=307623611.68 elapsed=539.0s total_elapsed=2798.5s
 G200_5.txt: graph_cut=365780523.91 fitness=365780523.91 elapsed=536.8s total_elapsed=3335.3s
 G200_6.txt: graph_cut=288253805.13 fitness=288253805.13 elapsed=548.2s total_elapsed=3883.4s
+G200_7.txt: graph_cut=26959488.08 fitness=26959488.08 elapsed=528.1s total_elapsed=4411.6s
