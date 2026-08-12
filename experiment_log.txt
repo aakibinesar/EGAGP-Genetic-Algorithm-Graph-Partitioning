@@ -1,0 +1,6 @@
+Starting experiment: 10 files, pop=20, max_generations=3000, 1 run/file
+G200_0.txt: graph_cut=383783200.31 fitness=383783200.31 elapsed=569.3s total_elapsed=569.3s
+G200_1.txt: graph_cut=334441900.18 fitness=334441900.18 elapsed=563.8s total_elapsed=1133.0s
+G200_2.txt: graph_cut=169335744.66 fitness=169335744.66 elapsed=579.8s total_elapsed=1712.8s
+G200_3.txt: graph_cut=237892425.48 fitness=237892425.48 elapsed=546.7s total_elapsed=2259.5s
+G200_4.txt: graph_cut=307623611.68 fitness=307623611.68 elapsed=539.0s total_elapsed=2798.5s
