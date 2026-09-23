@@ -1,0 +1,16 @@
+Starting experiment: 10 files, pop=20, max_generations=3000, 1 run/file
+G200_0.txt: graph_cut=383783200.31 fitness=383783200.31 elapsed=569.3s total_elapsed=569.3s
+G200_1.txt: graph_cut=334441900.18 fitness=334441900.18 elapsed=563.8s total_elapsed=1133.0s
+G200_2.txt: graph_cut=169335744.66 fitness=169335744.66 elapsed=579.8s total_elapsed=1712.8s
+G200_3.txt: graph_cut=237892425.48 fitness=237892425.48 elapsed=546.7s total_elapsed=2259.5s
+G200_4.txt: graph_cut=307623611.68 fitness=307623611.68 elapsed=539.0s total_elapsed=2798.5s
+G200_5.txt: graph_cut=365780523.91 fitness=365780523.91 elapsed=536.8s total_elapsed=3335.3s
+G200_6.txt: graph_cut=288253805.13 fitness=288253805.13 elapsed=548.2s total_elapsed=3883.4s
+G200_7.txt: graph_cut=26959488.08 fitness=26959488.08 elapsed=528.1s total_elapsed=4411.6s
+G200_8.txt: graph_cut=265730762.08 fitness=265730762.08 elapsed=556.6s total_elapsed=4968.2s
+G200_9.txt: graph_cut=286924825.87 fitness=286924825.87 elapsed=557.0s total_elapsed=5525.1s
+
+Avg graph cut cost: 266672628.74
+Min graph cut cost: 26959488.08
+Total time: 5525.1s
+DONE
